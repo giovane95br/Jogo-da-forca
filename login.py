@@ -4,7 +4,7 @@ import flet as ft
 import pygame
 
 # --- Funções de Áudio ---
-
+# teste
 def tocar_musica():
     """
     Inicializa o mixer do pygame e toca a música de fundo em loop.
